@@ -1,0 +1,1 @@
+A machine learning-based system to detect phishing emails by analyzing their features and content. The project trains and evaluates multiple models (Logistic Regression, Random Forest, XGBoost) on a phishing dataset to classify emails as phishing or legitimate.
